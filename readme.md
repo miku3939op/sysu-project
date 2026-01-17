@@ -2,7 +2,7 @@
 
 1.Clone this repository
 ```
-git clone 
+git clone https://github.com/miku3939op/sysu-project.git
 ```
 
 2.Run this sample, （在根目录）
@@ -11,3 +11,4 @@ git clone
 python -m experiments.train_matrix_game
 
 ```
+
